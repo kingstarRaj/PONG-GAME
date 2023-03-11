@@ -12,11 +12,15 @@ If a player fails to hit the ball with their paddle, the other player earns a po
 The game ends when one player reaches the specified number of points.
 # Built With
 Java
+
 Java Swings
 # OOPs Concepts Used
 Inheritance
+
 Encapsulation
+
 Polymorphism
+
 Abstraction
 # Acknowledgments
 This game was based on the classic Pong game, which was first released in 1972.
