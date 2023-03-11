@@ -25,3 +25,7 @@ Abstraction
 # Acknowledgments
 This game was based on the classic Pong game, which was first released in 1972.
 I would like to thank my tutors for their help and inspiration.
+
+![Screenshot (9)](https://user-images.githubusercontent.com/117908592/224508583-89ec0649-0717-4198-9100-cdf632cb041d.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/117908592/224508590-7d0bfa30-5124-472a-9a39-5277b6d79762.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/117908592/224508609-0c1e2b4b-e80a-4b87-84f9-c98656fc661e.png)
